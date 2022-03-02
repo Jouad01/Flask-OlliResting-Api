@@ -11,5 +11,6 @@ Introducción comandos
 - pip list | grep tox
 
 - pip freeze > requeriments.txt
+- pip install flask-restful
 
 Creación fichero setup.py desde https://github.com/dfleta/ollivanders/blob/master/setup.py 
