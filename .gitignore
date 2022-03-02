@@ -1,0 +1,38 @@
+# VSCode
+.vscode
+.cache
+
+# Python, Virtual Environment
+venv/
+__pycache__
+
+# Pytest
+.pytest_cache
+
+
+# Unit test / coverage reports
+.coverage
+coverage_annotation/
+.tox
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+lib
+lib64
+__pycache__
+
+# Installer logs
+pip-log.txt
+
+# VSCode
+.vscode
