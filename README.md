@@ -14,3 +14,12 @@ Introducción comandos
 - pip install flask-restful
 
 Creación fichero setup.py desde https://github.com/dfleta/ollivanders/blob/master/setup.py 
+
+### Hello World en Flask
+
+- Se crea el fichero hello.py con la lógica correspondiente 
+- Usamos en la terminal set FLASK_APP=hello.py (En Windows)
+- Y flask run
+- Desde 'http://127.0.0.1:5000/' comprobamos:
+
+![](Images\helloworld.png)
