@@ -22,4 +22,4 @@ Creación fichero setup.py desde https://github.com/dfleta/ollivanders/blob/mast
 - Y flask run
 - Desde 'http://127.0.0.1:5000/' comprobamos:
 
-![](Images\helloworld.png)
+![](Images/helloworld.png)
