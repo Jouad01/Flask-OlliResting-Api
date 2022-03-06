@@ -13,8 +13,6 @@ Introducción comandos
 - pip freeze > requeriments.txt
 - pip install flask-restful
 
-Creación fichero setup.py desde https://github.com/dfleta/ollivanders/blob/master/setup.py 
-
 ### Hello World en Flask
 
 - Se crea el fichero hello.py con la lógica correspondiente 
