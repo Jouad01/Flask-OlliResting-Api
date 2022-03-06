@@ -1,3 +1,5 @@
+import imp
+from domain import types
 
 class DB():
     inventario = [[["+5 Dexterity Vest", 10, 20],
