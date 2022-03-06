@@ -1,4 +1,3 @@
-import imp
 from flask_restful import Resource
 from services.services import Service
 

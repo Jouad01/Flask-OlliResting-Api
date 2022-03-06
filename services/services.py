@@ -1,8 +1,5 @@
-from email import message
-import resource
-from attr import field
 from flask_restful import fields, marshal_with, abort
-
+from repository.db import DB
 
 class Service():
 

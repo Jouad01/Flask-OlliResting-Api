@@ -1,8 +1,8 @@
-# from flask import Flask
-# from flask_restful import Resource, Api
-#from controller.items import Items
-# from controller.wellcome import Wellcome 
-# from controller.objeto import Objeto
+from flask import Flask
+from flask_restful import Resource, Api
+from controller.items import Items
+from controller.wellcome import Wellcome 
+from controller.objects import Objeto
 
 
 app = Flask(__name__)
