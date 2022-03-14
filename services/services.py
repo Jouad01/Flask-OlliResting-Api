@@ -10,7 +10,6 @@ class Service():
     }
     
     @staticmethod
-    
     def get_item(name):
         if not name:
             abort(404, message="Introduzca el nombre del objeto")
@@ -31,5 +30,3 @@ class Service():
             abort(404, message="El objeto no existe".format(name))
         
         return item
-        
-    
