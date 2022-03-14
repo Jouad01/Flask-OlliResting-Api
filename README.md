@@ -5,6 +5,10 @@ Flask es un marco de aplicación web WSGI ligero. Está diseñado para que empez
 En este repositorio se creará una api rest usando el kata gildedrose, además de tenerla dockerizada, estará conectada a una base de datos.
 
 
+**Proyecto aún en construcción**
+
+---
+
 Introducción comandos
 
 - py -m pip install --upgrade pip 
@@ -21,6 +25,14 @@ Introducción comandos
 - pip install python-dotenv
 
 
+## Recursos
+
+SQLAlchemy: 
+
+https://docs.sqlalchemy.org/en/14/intro.html#installation 
+
+---
+
 ## Hello World en Flask
 
 - Se crea el fichero hello.py con la lógica correspondiente 
@@ -31,6 +43,7 @@ Introducción comandos
 ![](Images/helloworld.png)
 
 
+---
 
 ## Bibliografía:
 
